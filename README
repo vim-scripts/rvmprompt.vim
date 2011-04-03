@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3539
+
+rvmprompt.vim is a plugin that provides a simple interface to thr rvm-prompt
+command. So, you can use that function in your statusline. It provides a configuration variable used to pass tokens to the rvm-prompt command-
